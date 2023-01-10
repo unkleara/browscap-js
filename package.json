@@ -24,8 +24,8 @@
     "node": ">=6.0.0"
   },
   "dependencies": {
-    "browscap-js-cache": "^2.0.1",
-    "browscap-json-cache-files": "^1.2.6000032",
+    "browscap-js-cache": "git+https://github.com/mimmi20/browscap-js-cache.git",
+    "browscap-json-cache-files": "git+https://github.com/mimmi20/browscap-json-cache-files.git",
     "md5": "^2.0.0",
     "synchronous-promise": "^2.0.10"
   },
